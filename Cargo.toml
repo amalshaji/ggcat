@@ -1,0 +1,13 @@
+[package]
+name = "ggcat"
+version = "0.0.1"
+edition = "2021"
+description = "A simple tool to read text file contents to clipboard"
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/amalshaji/ggcat"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arboard = "3.2.0"
